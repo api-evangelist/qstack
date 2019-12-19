@@ -1,0 +1,49 @@
+{
+    "name": "Qstack",
+    "description": "<p>Qstack is a comprehensive cloud management platform with Kubernetes-based container &amp; application orchestration layer with native hybrid capabilities.Qstack&trade; is a cloud infrastructure solution, a turnkey and easy-to-use package which empowers companies to capitalize on an enterprise-ready, brandable and fully customizable cloud. Qstack includes a unified, customizable self-service web portal for users and administrators, that allows for the management of multiple infrastructure locations and hypervisors from a single pane of glass.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28671-www-qstack-com.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/qstack\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Qstack",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28671-www-qstack-com.jpg",
+            "humanURL": "https:\/\/www.qstack.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/qstack-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.qstack.com\/display\/1604\/Qstack+Documentation"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@greenqloud.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/qstackcloud"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.qstack.com"
+        }
+    ]
+}
